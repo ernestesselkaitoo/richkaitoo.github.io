@@ -103,6 +103,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
+    - label: "linkedin"
+      icon: "fa fa-linkedin-square"
+      url: "https://www.linkedin.com/in/richkaitoo/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -118,10 +121,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+https://www.linkedin.com/in/richkaitoo/
 # Site Footer
 footer:
   links:
+    - label: "linkedin"
+      icon: "fa fa-linkedin-square"
+      # url:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
